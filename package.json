@@ -1,0 +1,23 @@
+{
+  "name": "server-app",
+  "version": "1.0.0",
+  "description": "monitoring server status",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpaul199812/server-status-app.git"
+  },
+  "author": "johnpaul199812",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnpaul199812/server-status-app/issues"
+  },
+  "homepage": "https://github.com/johnpaul199812/server-status-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
